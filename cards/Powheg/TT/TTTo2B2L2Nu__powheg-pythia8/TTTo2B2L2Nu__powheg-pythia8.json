@@ -1,5 +1,5 @@
 {
-    "process" : "hvq",
+    "powheg_process" : "hvq",
 
     "powheg_card":[
         "hdamp 237.8775",
