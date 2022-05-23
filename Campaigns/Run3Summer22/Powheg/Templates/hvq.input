@@ -21,3 +21,4 @@ ebeam1 $ebeam1    ! beam energy of beam 1
 ebeam2 $ebeam2    ! beam energy of beam 1 
 lhans1 $pdf1      ! PDF set of beam 1 
 lhans2 $pdf2      ! PDF set of beam 1 
+hdamp 237.8775    
